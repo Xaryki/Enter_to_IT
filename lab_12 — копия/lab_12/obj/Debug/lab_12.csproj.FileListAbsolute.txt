@@ -1,0 +1,45 @@
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\bin\Debug\lab_12.exe.config
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\bin\Debug\lab_12.exe
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\bin\Debug\lab_12.pdb
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form1.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form2.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form3.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form4.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form5.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.exe
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.pdb
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form6.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form7.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12\lab_12\obj\Debug\lab_12.Form8.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\bin\Debug\lab_12.exe.config
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\bin\Debug\lab_12.exe
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\bin\Debug\lab_12.pdb
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form1.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form2.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form3.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form4.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form5.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form6.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form7.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form8.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.exe
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.pdb
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form10.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form11.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form12.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form9.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form13.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form14.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form15.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form16.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\lab_12 — копия\lab_12\obj\Debug\lab_12.Form17.resources

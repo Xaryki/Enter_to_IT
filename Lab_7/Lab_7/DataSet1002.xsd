@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1002" targetNamespace="http://tempuri.org/DataSet1002.xsd" xmlns:mstns="http://tempuri.org/DataSet1002.xsd" xmlns="http://tempuri.org/DataSet1002.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1002" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1002" msprop:Generator_DataSetName="DataSet1002">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="order" msprop:Generator_RowEvHandlerName="orderRowChangeEventHandler" msprop:Generator_RowDeletedName="orderRowDeleted" msprop:Generator_RowDeletingName="orderRowDeleting" msprop:Generator_RowEvArgName="orderRowChangeEvent" msprop:Generator_TablePropName="order" msprop:Generator_RowChangedName="orderRowChanged" msprop:Generator_RowChangingName="orderRowChanging" msprop:Generator_TableClassName="orderDataTable" msprop:Generator_RowClassName="orderRow" msprop:Generator_TableVarName="tableorder" msprop:Generator_UserTableName="order">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="key_client" msprop:Generator_ColumnPropNameInRow="key_client" msprop:Generator_ColumnPropNameInTable="key_clientColumn" msprop:Generator_ColumnVarNameInTable="columnkey_client" msprop:Generator_UserColumnName="key_client">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="key_product" msprop:Generator_ColumnPropNameInRow="key_product" msprop:Generator_ColumnPropNameInTable="key_productColumn" msprop:Generator_ColumnVarNameInTable="columnkey_product" msprop:Generator_UserColumnName="key_product" type="xs:int" />
+              <xs:element name="date_order" msprop:Generator_ColumnPropNameInRow="date_order" msprop:Generator_ColumnPropNameInTable="date_orderColumn" msprop:Generator_ColumnVarNameInTable="columndate_order" msprop:Generator_UserColumnName="date_order" type="xs:dateTime" />
+              <xs:element name="quantity_order" msprop:Generator_ColumnPropNameInRow="quantity_order" msprop:Generator_ColumnPropNameInTable="quantity_orderColumn" msprop:Generator_ColumnVarNameInTable="columnquantity_order" msprop:Generator_UserColumnName="quantity_order" type="xs:int" minOccurs="0" />
+              <xs:element name="date_sale" msprop:Generator_ColumnPropNameInRow="date_sale" msprop:Generator_ColumnPropNameInTable="date_saleColumn" msprop:Generator_ColumnVarNameInTable="columndate_sale" msprop:Generator_UserColumnName="date_sale" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="quantity_sale" msprop:Generator_ColumnPropNameInRow="quantity_sale" msprop:Generator_ColumnPropNameInTable="quantity_saleColumn" msprop:Generator_ColumnVarNameInTable="columnquantity_sale" msprop:Generator_UserColumnName="quantity_sale" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:order" />
+      <xs:field xpath="mstns:key_client" />
+      <xs:field xpath="mstns:key_product" />
+      <xs:field xpath="mstns:date_order" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Sale1DataSet2" targetNamespace="http://tempuri.org/Sale1DataSet2.xsd" xmlns:mstns="http://tempuri.org/Sale1DataSet2.xsd" xmlns="http://tempuri.org/Sale1DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Sale1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Sale1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.lab_12.Properties.Settings.GlobalReference.Default.Sale1ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="OrderPerProductTableAdapter" GeneratorDataComponentClassName="OrderPerProductTableAdapter" Name="OrderPerProduct" UserDataComponentName="OrderPerProductTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="Sale1ConnectionString (Settings)" DbObjectName="Sale1.dbo.OrderPerProduct" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT [Код клиента], [Наименование фирмы], [Фамилия заказчика], [Дата заказа], Заказано, [Дата продажи], Продано, key_product, name_product FROM dbo.OrderPerProduct</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Код клиента" DataSetColumn="Код клиента" />
+              <Mapping SourceColumn="Наименование фирмы" DataSetColumn="Наименование фирмы" />
+              <Mapping SourceColumn="Фамилия заказчика" DataSetColumn="Фамилия заказчика" />
+              <Mapping SourceColumn="Дата заказа" DataSetColumn="Дата заказа" />
+              <Mapping SourceColumn="Заказано" DataSetColumn="Заказано" />
+              <Mapping SourceColumn="Дата продажи" DataSetColumn="Дата продажи" />
+              <Mapping SourceColumn="Продано" DataSetColumn="Продано" />
+              <Mapping SourceColumn="key_product" DataSetColumn="key_product" />
+              <Mapping SourceColumn="name_product" DataSetColumn="name_product" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Sale1DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="Sale1DataSet2" msprop:Generator_DataSetName="Sale1DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="OrderPerProduct" msprop:Generator_RowEvHandlerName="OrderPerProductRowChangeEventHandler" msprop:Generator_RowDeletedName="OrderPerProductRowDeleted" msprop:Generator_RowDeletingName="OrderPerProductRowDeleting" msprop:Generator_RowEvArgName="OrderPerProductRowChangeEvent" msprop:Generator_TablePropName="OrderPerProduct" msprop:Generator_RowChangedName="OrderPerProductRowChanged" msprop:Generator_RowChangingName="OrderPerProductRowChanging" msprop:Generator_TableClassName="OrderPerProductDataTable" msprop:Generator_RowClassName="OrderPerProductRow" msprop:Generator_TableVarName="tableOrderPerProduct" msprop:Generator_UserTableName="OrderPerProduct">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Код_x0020_клиента" msprop:Generator_ColumnPropNameInRow="Код_клиента" msprop:Generator_ColumnPropNameInTable="Код_клиентаColumn" msprop:Generator_ColumnVarNameInTable="columnКод_клиента" msprop:Generator_UserColumnName="Код клиента">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Наименование_x0020_фирмы" msprop:Generator_ColumnPropNameInRow="Наименование_фирмы" msprop:Generator_ColumnPropNameInTable="Наименование_фирмыColumn" msprop:Generator_ColumnVarNameInTable="columnНаименование_фирмы" msprop:Generator_UserColumnName="Наименование фирмы">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Фамилия_x0020_заказчика" msprop:Generator_ColumnPropNameInRow="Фамилия_заказчика" msprop:Generator_ColumnPropNameInTable="Фамилия_заказчикаColumn" msprop:Generator_ColumnVarNameInTable="columnФамилия_заказчика" msprop:Generator_UserColumnName="Фамилия заказчика" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Дата_x0020_заказа" msprop:Generator_ColumnPropNameInRow="Дата_заказа" msprop:Generator_ColumnPropNameInTable="Дата_заказаColumn" msprop:Generator_ColumnVarNameInTable="columnДата_заказа" msprop:Generator_UserColumnName="Дата заказа" type="xs:dateTime" />
+              <xs:element name="Заказано" msprop:Generator_ColumnPropNameInRow="Заказано" msprop:Generator_ColumnPropNameInTable="ЗаказаноColumn" msprop:Generator_ColumnVarNameInTable="columnЗаказано" msprop:Generator_UserColumnName="Заказано" type="xs:int" minOccurs="0" />
+              <xs:element name="Дата_x0020_продажи" msprop:Generator_ColumnPropNameInRow="Дата_продажи" msprop:Generator_ColumnPropNameInTable="Дата_продажиColumn" msprop:Generator_ColumnVarNameInTable="columnДата_продажи" msprop:Generator_UserColumnName="Дата продажи" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Продано" msprop:Generator_ColumnPropNameInRow="Продано" msprop:Generator_ColumnPropNameInTable="ПроданоColumn" msprop:Generator_ColumnVarNameInTable="columnПродано" msprop:Generator_UserColumnName="Продано" type="xs:int" minOccurs="0" />
+              <xs:element name="key_product" msprop:Generator_ColumnPropNameInRow="key_product" msprop:Generator_ColumnPropNameInTable="key_productColumn" msprop:Generator_ColumnVarNameInTable="columnkey_product" msprop:Generator_UserColumnName="key_product" type="xs:int" />
+              <xs:element name="name_product" msprop:Generator_ColumnPropNameInRow="name_product" msprop:Generator_ColumnPropNameInTable="name_productColumn" msprop:Generator_ColumnVarNameInTable="columnname_product" msprop:Generator_UserColumnName="name_product">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

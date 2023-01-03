@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet11" targetNamespace="http://tempuri.org/DataSet11.xsd" xmlns:mstns="http://tempuri.org/DataSet11.xsd" xmlns="http://tempuri.org/DataSet11.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet11" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet11" msprop:Generator_DataSetName="DataSet11">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="OrderPerDate" msprop:Generator_RowEvHandlerName="OrderPerDateRowChangeEventHandler" msprop:Generator_RowDeletedName="OrderPerDateRowDeleted" msprop:Generator_RowDeletingName="OrderPerDateRowDeleting" msprop:Generator_RowEvArgName="OrderPerDateRowChangeEvent" msprop:Generator_TablePropName="OrderPerDate" msprop:Generator_RowChangedName="OrderPerDateRowChanged" msprop:Generator_RowChangingName="OrderPerDateRowChanging" msprop:Generator_TableClassName="OrderPerDateDataTable" msprop:Generator_RowClassName="OrderPerDateRow" msprop:Generator_TableVarName="tableOrderPerDate" msprop:Generator_UserTableName="OrderPerDate">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Фамилия" msprop:Generator_ColumnPropNameInRow="Фамилия" msprop:Generator_ColumnPropNameInTable="ФамилияColumn" msprop:Generator_ColumnVarNameInTable="columnФамилия" msprop:Generator_UserColumnName="Фамилия" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Адрес" msprop:Generator_ColumnPropNameInRow="Адрес" msprop:Generator_ColumnPropNameInTable="АдресColumn" msprop:Generator_ColumnVarNameInTable="columnАдрес" msprop:Generator_UserColumnName="Адрес" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Код_x0020_товара" msprop:Generator_ColumnPropNameInRow="Код_товара" msprop:Generator_ColumnPropNameInTable="Код_товараColumn" msprop:Generator_ColumnVarNameInTable="columnКод_товара" msprop:Generator_UserColumnName="Код товара" type="xs:int" />
+              <xs:element name="Дата_x0020_продажи" msprop:Generator_ColumnPropNameInRow="Дата_продажи" msprop:Generator_ColumnPropNameInTable="Дата_продажиColumn" msprop:Generator_ColumnVarNameInTable="columnДата_продажи" msprop:Generator_UserColumnName="Дата продажи" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

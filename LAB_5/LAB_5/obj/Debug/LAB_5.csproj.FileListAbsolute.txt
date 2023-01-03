@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\bin\Debug\LAB_5.exe.config
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\bin\Debug\LAB_5.exe
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\bin\Debug\LAB_5.pdb
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.Form1.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.Form2.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.exe
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.pdb
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Enter_to_IT\LAB_5\LAB_5\obj\Debug\LAB_5.Form3.resources
